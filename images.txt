@@ -1,2 +1,2 @@
-browserless/chrome
-redis:alpine
+mysql:latest
+cooderl/wewe-rss:latest
