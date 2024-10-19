@@ -1,1 +1,1 @@
-gotson/komga
+stashapp/stash:latest
