@@ -1,1 +1,1 @@
-stashapp/stash:latest
+vaultwarden/server:latest
