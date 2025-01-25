@@ -1,2 +1,1 @@
-vaultwarden/server:latest
-uozi/nginx-ui:latest
+filebrowser/filebrowser
