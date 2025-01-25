@@ -1,1 +1,1 @@
-filebrowser/filebrowser:v2.31.2
+vaultwarden/server:latest
