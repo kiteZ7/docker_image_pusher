@@ -1,2 +1,2 @@
-immich-app/immich-server:v1.125.2
+ghcr.io/immich-app/immich-server:v1.125.2
 
