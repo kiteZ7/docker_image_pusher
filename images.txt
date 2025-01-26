@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+linuxserver/qbittorrent:v5.0.3
