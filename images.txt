@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:v5.0.3
+ghcr.io/advplyr/audiobookshelf:2.18.1
