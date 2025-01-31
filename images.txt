@@ -1,1 +1,2 @@
-lscr.io/linuxserver/qbittorrent
+inymediamanager/tinymediamanager:5.0.13
+
