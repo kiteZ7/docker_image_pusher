@@ -1,1 +1,1 @@
-tinymediamanager/tinymediamanager:5.0.13
+ghcr.io/gethomepage/homepage:latest
